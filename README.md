@@ -34,3 +34,4 @@ Strip secret values from your existing `.env` while keeping comments and keys in
 ## 📄 License
 
 This project is licensed under the MIT License.
+Special thanks to the open-source community for feedback
